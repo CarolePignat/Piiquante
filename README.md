@@ -17,7 +17,7 @@ Développer le back-end de l'application web de critique de sauces piquantes app
 
 #### Front-End
 
-* Lien vers l'application front-end du repository du projet : (https://github.com/OpenClassrooms-Student-Center/Web-Developer-P6)
+* Lien vers l'application front-end du repository du projet : https://github.com/OpenClassrooms-Student-Center/Web-Developer-P6
 * Cloner le repository
 * Ouvrir un terminal
 * Exécuter `npm install` à partir du répértoire du projet
@@ -30,9 +30,9 @@ Développer le back-end de l'application web de critique de sauces piquantes app
 * Exécuter `npm install` à partir de la racine du projet
 * Exécuter `node server`
 
-Le back-end s'exécute sur (http://localhost:3000) 
+Le back-end s'exécute sur http://localhost:3000
 
-L'application s'ouvre dans le navigateur via le lien suivant : (http://localhost:4200)
+L'application s'ouvre dans le navigateur via le lien suivant : http://localhost:4200
 
 ## Technologies utilisées
 
